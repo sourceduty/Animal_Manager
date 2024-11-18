@@ -1,6 +1,6 @@
 ![Pets](https://github.com/user-attachments/assets/9145e87a-eb5a-481d-b0ba-3415f50d6f08)
 
-> Assistive pet management software developer.
+> Assistive animal and pet management software developer.
 #
 
 [Animal Manager](https://chatgpt.com/g/g-673ae143d2bc8191aae3bf7bfa0a7692-animal-manager) is designed to assist users in creating and managing software solutions tailored specifically for pet care. It specializes in integrating features like health tracking, feeding schedules, training logs, and reminders into intuitive systems that help pet owners streamline their daily responsibilities. By understanding both the technical and practical needs of pet management, Animal Manager empowers users to design efficient and user-friendly platforms, ensuring their pets’ needs are met with ease and reliability.
